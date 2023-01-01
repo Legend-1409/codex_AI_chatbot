@@ -17,3 +17,7 @@ command -> npm create vite@latest client --template vanilla
 
 ### To run client side -> npm run dev
 ### To run server side -> npm run server
+
+### Server side is hosted on render (https://dashboard.render.com/web/srv-ceomcc1a6gdkdn75afcg)
+
+### Client side is hosted on vercel (https://vercel.com/legend-1409/codex)
